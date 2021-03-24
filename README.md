@@ -12,16 +12,21 @@ In this project your are going to build a terminal based (CLI) dictionary.
 2. Watch this 15 min video to [understand pipenv](https://www.youtube.com/watch?v=6Qmnh5C4Pmo), the python package manager.
 3. Watch this 10 min video on [what are API Keys and credentials](https://www.youtube.com/watch?v=InoAIgBZIEA).
 
-### Running the boilerplate
+## 🌱  How to start this project
 
-The boilerplate comes with pipenv installed (the python package manager):
+Do not clone this repository.
 
-Install the application dependencies by typing (only once):
+1. The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or opening it using gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+b) If working locally type the following command from your command line: `https://github.com/4GeeksAcademy/flask-rest-hello`.
+
+2. Install the application dependencies by typing (only once):
 
 ```bash
 $ pipenv install
 ```
-Run the application by typing (every time):
+3. Run the application by typing (every time):
 
 ```bash
 $ pipenv run python app.py
