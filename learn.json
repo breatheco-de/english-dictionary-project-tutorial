@@ -8,5 +8,7 @@
 	"difficulty": "easy",
    "solution": "https://github.com/breatheco-de/urban-dictionary-project-tutorial/tree/solution",
 	"technologies": ["python", "terminal", "command line", "http", "http.request", "apis"],
-	"talents": []
+	"talents": [],
+    "autoPlay": false,
+    "projectType": "project"
 }
