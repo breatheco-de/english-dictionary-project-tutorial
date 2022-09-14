@@ -2,7 +2,7 @@
 
 ![Urban Dictionary Terminal App](https://github.com/breatheco-de/english-dictionary-project-tutorial/blob/master/preview.gif?raw=true)
 
-El [Urban Dictionary] (https://www.urbandictionary.com/) es un recurso increíble para los amantes del inglés; tiene definiciones precisas de palabras, no como otros servicios como Wikipedia, Oxford, etc. 😅
+El [Urban Dictionary](https://www.urbandictionary.com/) es un recurso increíble para los amantes del inglés; tiene definiciones precisas de palabras, no como otros servicios como Wikipedia, Oxford, etc. 😅
 
 
 En este proyecto, creará un diccionario basado en la terminal (CLI).
