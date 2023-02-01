@@ -1,5 +1,5 @@
 <!--hide-->
-# Urban Dictionary Terminal App
+# Aplicación de terminal del Urban Dictionary
 <!--endhide-->
 
 ![Urban Dictionary Terminal App](https://github.com/breatheco-de/english-dictionary-project-tutorial/blob/master/preview.gif?raw=true)
