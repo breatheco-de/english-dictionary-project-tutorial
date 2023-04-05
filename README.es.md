@@ -1,15 +1,16 @@
-# Urban Dictionary Terminal App
+<!--hide-->
+# Aplicación de terminal del Urban Dictionary
+<!--endhide-->
 
 ![Urban Dictionary Terminal App](https://github.com/breatheco-de/english-dictionary-project-tutorial/blob/master/preview.gif?raw=true)
 
 El [Urban Dictionary](https://www.urbandictionary.com/) es un recurso increíble para los amantes del inglés; tiene definiciones precisas de palabras, no como otros servicios como Wikipedia, Oxford, etc. 😅
 
-
 En este proyecto, creará un diccionario basado en la terminal (CLI).
 
-### Antes de empezae
+### Antes de empezar
 
-1. Créate un cuenta en[RapidAPI.com](https://rapidapi.com/) y solicita tu key para la [urban dictionary API](https://rapidapi.com/community/api/urban-dictionary).
+1. Créate una cuenta en[RapidAPI.com](https://rapidapi.com/) y solicita tu key para la [urban dictionary API](https://rapidapi.com/community/api/urban-dictionary).
 2. Ve este video de 15 minutos para comprender [pipenv](https://www.youtube.com/watch?v=6Qmnh5C4Pmo), the python package manager.
 3. Ve este video de 10 minutos para comprender [qué son las API Keys y las credenciales](https://www.youtube.com/watch?v=InoAIgBZIEA).
 
@@ -49,7 +50,7 @@ url = "https://mashape-community-urban-dictionary.p.rapidapi.com/define?term=com
 ```
 No olvides añadir los `headers` con las credenciales de la API, please refer to [ejemplo de la API en la documentación](https://rapidapi.com/community/api/urban-dictionary/endpoints).
 
-4. Procesa el  response body, entiendelo y obtén la definición de la palabra en response body entrante. 
+4. Procesa el response body, entiéndelo y obtén la definición de la palabra en response body entrante. 
 5. Muestra la definición en la terminal.
 6. Guarda la definición en un archivo JSON (JSON file).
 
