@@ -14,6 +14,8 @@ In this project, you are going to build a terminal based (CLI) dictionary.
 2. Watch this 15 min video to [understand pipenv](https://www.youtube.com/watch?v=6Qmnh5C4Pmo), the python package manager.
 3. Watch this 10 min video on [what are API Keys and credentials](https://www.youtube.com/watch?v=InoAIgBZIEA).
 
+<onlyfor saas="false" withBanner="false">
+  
 ### 🌱 Starting the project
 
 Clone this repository locally (`git clone <project url>`) or open it with Gitpod by [clicking here](https://gitpod.io#https://github.com/breatheco-de/urban-dictionary-project-tutorial) (recomended):
@@ -30,6 +32,8 @@ Run the application by typing (every time):
 ```bash
 $ pipenv run python app.py
 ```
+
+</onlyfor>
 
 ### 📝 Features that the application must have
 
