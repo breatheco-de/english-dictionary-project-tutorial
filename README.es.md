@@ -18,25 +18,31 @@ En este proyecto, creará un diccionario basado en la terminal (CLI).
   
 ## 🌱  Cómo iniciar este proyecto
 
-1. Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
+Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod (recomendado) en tu navegador: https://gitpod.io#https://github.com/breatheco-de/urban-dictionary-project-tutorial) 
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://s.4geeks.com/start?repo=breatheco-de/urban-dictionary-project-tutorial
 
 b) Clonar este repositorio localmente en tu computador:
+
 ```sh
-$ git clone https://github.com/breatheco-de/urban-dictionary-project-tutorial) (recomended)
+$ git clone https://github.com/breatheco-de/urban-dictionary-project-tutorial) 
 ```
 
-2. Instala las dependencias de la aplicación (solo una vez):
+### Pasos 
+
+1. Instala las dependencias de la aplicación (solo una vez):
 
 ```bash
 $ pipenv install
 ```
-3. Ejecuta la aplicación escribiendo (cada vez):
+2. Ejecuta la aplicación escribiendo (cada vez):
 
 ```bash
 $ pipenv run python app.py
 ```
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
 </onlyfor>
 
 ### 📝 Features that the application must have
