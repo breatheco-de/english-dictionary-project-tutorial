@@ -15,23 +15,34 @@ In this project, you are going to build a terminal based (CLI) dictionary.
 3. Watch this 10 min video on [what are API Keys and credentials](https://www.youtube.com/watch?v=InoAIgBZIEA).
 
 <onlyfor saas="false" withBanner="false">
-  
-### 🌱 Starting the project
 
-Clone this repository locally (`git clone <project url>`) or open it with Gitpod by [clicking here](https://gitpod.io#https://github.com/breatheco-de/urban-dictionary-project-tutorial) (recomended):
+## 🌱 How to start this project
 
-Note: The project requires Python 3.8 and pipenv (python package manager), if you open it with Gitpod you are ok but localhost users will need to install it manually.
+This project includes the necessary files to get started, and you have two options to begin:
 
-Install the application dependencies by typing (only once):
+a) Open this link with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) in your browser: https://s.4geeks.com/start?repo=breatheco-de/urban-dictionary-project-tutorial
+
+b) Clone this repository locally on your computer:
+
+```sh
+$ git clone https://github.com/breatheco-de/urban-dictionary-project-tutorial
+```
+
+### Steps
+
+1. Install the application dependencies (only once):
 
 ```bash
 $ pipenv install
 ```
-Run the application by typing (every time):
+
+2. Run the application by typing (each time):
 
 ```bash
 $ pipenv run python app.py
 ```
+
+💡 Important: Remember to update the project's `remote` URL to your repository using `git remote set-url origin <your new url>`, and then save your code to your new repository using `add`, `commit`, and `push`.
 
 </onlyfor>
 

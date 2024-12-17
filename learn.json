@@ -5,6 +5,7 @@
 	"preview": "https://github.com/breatheco-de/urban-dictionary-project-tutorial/blob/master/preview.gif?raw=true",
 	"status": "published",
 	"duration" : 4,
+	"template_url": "self",
 	"difficulty": "easy",
    "solution": "https://github.com/breatheco-de/urban-dictionary-project-tutorial/tree/solution",
 	"technologies": ["python", "terminal", "command line", "http", "http.request", "apis"],
